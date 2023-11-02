@@ -1,9 +1,3 @@
- * métodos propios de una colección de publicaciones del sistema de archivo.
- * 
- * @author Juan Pedro Cerro Martínez
- * @version 08/03/2022
- */
-
 import java.util.*;
 
 public class Coleccion {
