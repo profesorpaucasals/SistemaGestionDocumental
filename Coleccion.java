@@ -1,5 +1,3 @@
-/**
- * Clase Coleccion - Esta clase contiene las propiedades y 
  * métodos propios de una colección de publicaciones del sistema de archivo.
  * 
  * @author Juan Pedro Cerro Martínez
