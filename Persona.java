@@ -20,7 +20,7 @@ public abstract class Persona {
     protected String correoElectronico;
 
     /**
-     * Método constructor específico de la clase
+     * Método constructor yyy de la clase
      * 
      * @param pNombreCompleto Nombre de la persona
      * @param pSexo El sexo de la persona {"H" - Hombre | "M" - Mujer}
